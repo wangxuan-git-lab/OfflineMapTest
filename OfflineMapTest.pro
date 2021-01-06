@@ -14,6 +14,8 @@ SOURCES += main.cpp
 
 RESOURCES += qml.qrc
 
+
+
 # Additional import path used to resolve QML modules in Qt Creator's code model
 QML_IMPORT_PATH =
 
@@ -79,7 +81,6 @@ INCLUDEPATH += \
 #地图相关插件
 LOCATION_PLUGIN_DESTDIR = $${OUT_PWD}/QtLocationPlugin
 LOCATION_PLUGIN_NAME    = GeoServiceProviderFactory
-
 
 
 

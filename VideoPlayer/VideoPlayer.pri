@@ -11,6 +11,8 @@ HEADERS += \
     $$PWD/streamvideowidget.h \
     $$PWD/videodecodethread.h \
     $$PWD/videosavethread.h \
+    $$PWD/videoshowwidget.h \
+    $$PWD/videoshowwidget.h \
     $$PWD/videoshowwidget.h
 SOURCES += \
     $$PWD/myvideowidget.cpp \
@@ -20,6 +22,10 @@ SOURCES += \
     $$PWD/streamvideowidget.cpp \
     $$PWD/videodecodethread.cpp \
     $$PWD/videosavethread.cpp \
+    $$PWD/videoshowwidget.cpp \
+    $$PWD/videoshowwidget.cpp \
+    $$PWD/videoshowwidget.cpp \
+    $$PWD/videoshowwidget.cpp \
     $$PWD/videoshowwidget.cpp
 
 

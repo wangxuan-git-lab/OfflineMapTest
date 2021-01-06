@@ -29,7 +29,8 @@ SOURCES += \
     $$PWD/frmpollconfig.cpp \
     $$PWD/excelhelper.cpp \
     $$PWD/recordselectdialog.cpp \
-    $$PWD/mainshowdialog.cpp
+    $$PWD/mainshowdialog.cpp \
+    $$PWD/frmmain.cpp
 
 HEADERS  += \
     $$PWD/myhelper.h \
