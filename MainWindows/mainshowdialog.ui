@@ -35,7 +35,7 @@
       <string notr="true">QTabWidget{display:none}</string>
      </property>
      <property name="currentIndex">
-      <number>0</number>
+      <number>2</number>
      </property>
      <widget class="QWidget" name="map_show_page"/>
      <widget class="QWidget" name="video_show_page">
